@@ -54,7 +54,7 @@ for s in input():
     if s.isdigit() and last_s == " " and expression[-1].isdigit():
         res = "WRONG"
         break
-    elif s == "-" and expression[-1] in operators:
+    elif s == "-" and (expression[-1] in operators or expression[-1] == " "):
         operator_last = True
         expression += " 0 " + s
     elif s in operators and not expression[-1].isdigit() and expression[-1] != ")":
