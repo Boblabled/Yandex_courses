@@ -10,6 +10,6 @@
 - [Решение](https://github.com/Boblabled/Yandex_courses/tree/master/Trainings/6.0/%D0%94%D0%97_%E2%84%963)
 4. Деревья, представления и обходы
 - [Ссылка на контест](https://contest.yandex.ru/contest/66795/enter/)
-- [Решение](https://github.com/Boblabled/Yandex_courses/tree/master/Trainings/6.0/%D0%94%D0%97_%E2%84%963)
+- [Решение](https://github.com/Boblabled/Yandex_courses/tree/master/Trainings/6.0/%D0%94%D0%97_%E2%84%964)
 
 ![Сертификат](Сертификат.png)
